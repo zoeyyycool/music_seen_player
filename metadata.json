@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Player",
+  "description": "A retro-futuristic local music player with vinyl aesthetics, real-time audio visualization, and AI-powered playlist analysis.",
+  "requestFramePermissions": []
+}
